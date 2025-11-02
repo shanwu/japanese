@@ -768,5 +768,3 @@ At the Electronics Store (1) — Asking about Product Location, Stock, and Price
 - **其他**：一般讀音
 
 ---
-
-（完）
