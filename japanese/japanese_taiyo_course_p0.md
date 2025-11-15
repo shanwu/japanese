@@ -207,7 +207,7 @@ Parts of Speech and Conjugation Marks（日文詞性與動詞變化）
 
 ### ②-1 ます形（ますけい）V-ます  
 禮貌形。常用於正式場合。  
-例：行きます → 我去。
+例：[行きます](https://youtu.be/ymbhGioQqz4?si=yMLYWB0QM4E8xaSq&t=2109) → 我去。
 
 例句：
 - 学校へ 行きます。→ 去學校。
