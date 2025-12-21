@@ -25,3 +25,7 @@ Lia, 詳細教我圖中的內容日文，包括列出相關的單字、句子，
 - [TaiYou japanese class notes](https://docs.google.com/document/d/1JzlFF_PugXsrgNag2raHValC8v_xt1xS5WTkoBk7GA8/edit?tab=t.0)
 
 - [Translate Tool](https://docs.google.com/spreadsheets/d/1oV52tHrv7gRTCChSLbRUBdsl6nfkyf4KfUP31iAgwC0/edit?gid=0#gid=0)
+
+- [TRY!](https://www.jwbooks.com.tw/ask2021/TRY.html)
+
+- [NHKやさしいことばニュース | NEWS WEB EASY](https://news.web.nhk/news/easy)
