@@ -29,3 +29,7 @@ Lia, 詳細教我圖中的內容日文，包括列出相關的單字、句子，
 - [TRY!](https://www.jwbooks.com.tw/ask2021/TRY.html)
 
 - [NHKやさしいことばニュース | NEWS WEB EASY](https://news.web.nhk/news/easy)
+
+https://www.youtube.com/@deguchi
+
+https://www.youtube.com/watch?v=qz_DC_NEkvw&list=PL06W06QXW1WYPwYd5gBv1cRdSxoFYbFSN
