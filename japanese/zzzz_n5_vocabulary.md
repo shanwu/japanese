@@ -599,7 +599,6 @@
   - Uma ni norimasu.
   - 騎馬。
 
-===here===
 **おと（音）**
 - **讀音**：oto
 - **詞性**：名詞
@@ -1023,6 +1022,7 @@
   - Atarashii kotoba o oboemasu.
   - 記新單字。
 
+===here===
 **こども（子供）**
 - **讀音**：kodomo
 - **詞性**：名詞
