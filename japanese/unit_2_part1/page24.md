@@ -16,21 +16,21 @@ Use a question word when you do not know a name, place, reason or the like.
 
 ## 疑問詞一覽表 (Question Words Reference Table)
 
-| 疑問詞 | 英語 | 中文 |
-|--------|------|------|
-| **だれ/どなた** | Who | 誰 |
-| **どこ/どちら** | Where | 哪裡 |
-| **なに/なん** | What | 什麼 |
-| **どうして/なぜ** | Why | 為什麼 |
-| **どれ** | Which | 哪個 |
-| **どの+名詞**（めいし） | Which + noun | 哪個+名詞 |
-| **どちら/どっち** | Which (one) | 哪一個 |
-| **どう/いかが** | How (As in, "How do you like...?") | 怎麼樣 |
-| **どんな+名詞**（めいし） | What kind of + noun | 什麼樣的+名詞 |
-| **いつ** | When | 什麼時候 |
-| **なんで** | How | 如何 |
-| **いくら** | How much | 多少錢 |
-| **どうやって** | How | 如何（方法） |
+| 疑問詞 | 英語 | 中文 | 差別 (Difference) | 使用場景 (Usage Context) |
+|--------|------|------|-------------------|-------------------------|
+| **だれ/どなた** | Who | 誰 | どなた更禮貌、正式 | **だれ**：一般場合、朋友間<br>**どなた**：正式場合、對長輩或陌生人 |
+| **どこ/どちら** | Where | 哪裡 | どちら更禮貌，也可指方向 | **どこ**：一般場合詢問地點<br>**どちら**：正式場合、詢問方向或選擇 |
+| **なに/なん** | What | 什麼 | 讀音不同，根據後續音決定 | **なに**：獨立使用或後接a/i/u/e/o音<br>**なん**：後接n/t/d音或數量詞（何人、何時） |
+| **どうして/なぜ** | Why | 為什麼 | どうして更口語化 | **どうして**：日常對話、口語<br>**なぜ**：書面語、正式場合 |
+| **どれ** | Which | 哪個 | 用於選擇多個選項中的一個 | 詢問多個物品中的哪一個（不接名詞）<br>例：どれがあなたの本ですか |
+| **どの+名詞**（めいし） | Which + noun | 哪個+名詞 | 必須接名詞 | 詢問特定類別中的哪一個<br>例：どの本が好きですか |
+| **どちら/どっち** | Which (one) | 哪一個 | どちら更禮貌，どっち更口語化 | **どちら**：正式場合、禮貌用語<br>**どっち**：朋友間、口語 |
+| **どう/いかが** | How (As in, "How do you like...?") | 怎麼樣 | いかが更禮貌 | **どう**：一般場合詢問狀態或意見<br>**いかが**：正式場合、商務用語 |
+| **どんな+名詞**（めいし） | What kind of + noun | 什麼樣的+名詞 | 必須接名詞，詢問性質 | 詢問事物的特徵、性質或種類<br>例：どんな音楽が好きですか |
+| **いつ** | When | 什麼時候 | 詢問時間點或時間段 | 詢問具體時間、日期、時刻<br>例：いつ日本へ行きますか |
+| **なんで** | Why | 為什麼 | 口語化的「為什麼」 | 日常對話中詢問原因（比どうして更口語）<br>例：なんで遅れましたか |
+| **いくら** | How much | 多少錢 | 詢問價格、數量或程度 | 詢問價格、數量、程度<br>例：いくらですか（多少錢） |
+| **どうやって** | How | 如何（方法） | 詢問方法、手段 | 詢問做事的方式、方法或手段<br>例：どうやって行きますか |
 
 ---
 
@@ -38,15 +38,65 @@ Use a question word when you do not know a name, place, reason or the like.
 
 ### 例 (Example)
 
-**A:** それは（何）ですか。
-（それは（なん）ですか。）
-Sore wa (nan) desu ka?
-What is that?
+#### ①
 
-**B:** これは日本のおかしです。
-（これはにほんのおかしです。）
-Kore wa Nihon no okashi desu.
-This is Japanese confectionery.
+**A:** それは何のざっしですか。
+（それはなんのざっしですか。）
+Sore wa nan no zasshi desu ka?
+What kind of magazine is that?
+那是什麼雜誌？
+
+**B:** 車のざっしです。
+（くるまのざっしです。）
+Kuruma no zasshi desu.
+It's a car magazine.
+是汽車雜誌。
+
+---
+
+#### ②
+
+**A:** テストはいつですか。
+Tesuto wa itsu desu ka?
+When is the test?
+測試是什麼時候？
+
+**B:** 来週の木曜日です。
+（らいしゅうのもくようびです。）
+Raishuu no mokuyoubi desu.
+It's next Thursday.
+是下週四。
+
+---
+
+#### ③
+
+**A:** あの方はどなたですか。
+（あのかたはどなたですか。）
+Ano kata wa donata desu ka?
+Who is that person?
+那位是誰？
+
+**B:** 西川さんです。
+（にしかわさんです。）
+Nishikawa-san desu.
+It's Mr./Ms. Nishikawa.
+是西川先生/小姐。
+
+---
+
+#### ④
+
+**A:** 日本のおかしはどうですか。
+（にほんのおかしはどうですか。）
+Nihon no okashi wa dou desu ka?
+How are Japanese sweets?
+日本的點心怎麼樣？
+
+**B:** おいしいです。
+Oishii desu.
+They are delicious.
+很好吃。
 
 ---
 
@@ -58,10 +108,25 @@ This is Japanese confectionery.
 （にほんごのCDは（　　）ですか。）
 Nihongo no CD wa (　　) desu ka?
 What about the Japanese CD?
+日語的CD是哪個？
 
 **B:** これです。
 Kore desu.
 It's this.
+是這個。
+
+**📝 單字解說 (Vocabulary):**
+- **日本語**（にほんご - nihongo）：日語、日文
+- **CD**（シーディー - shiidii）：CD、光碟
+- **これ**（kore）：這個（指示代詞，指說話者附近的物品）
+
+**📚 文法解說 (Grammar):**
+- **～は～ですか**：疑問句句型，詢問「～是～嗎？」
+- **これです**：回答時使用指示代詞「これ」來指代物品
+
+**💡 可以填入的疑問詞 (Answer):**
+- **どれ**（dore）- 哪個
+  - **原因**：回答是「これです」，表示從多個選項中選擇一個，使用「どれ」詢問多個物品中的哪一個
 
 ---
 
@@ -71,11 +136,27 @@ It's this.
 （おおさかは（　　）まちですか。）
 Oosaka wa (　　) machi desu ka?
 What kind of town is Osaka?
+大阪是什麼樣的城鎮？
 
 **B:** にぎやかな町です。
 （にぎやかなまちです。）
 Nigiyakana machi desu.
 It's a lively town.
+是熱鬧的城鎮。
+
+**📝 單字解說 (Vocabulary):**
+- **大阪**（おおさか - oosaka）：大阪（日本城市名）
+- **町**（まち - machi）：城鎮、城市
+- **にぎやか**（nigiyaka）：熱鬧的、繁華的（な形容詞）
+
+**📚 文法解說 (Grammar):**
+- **～は～ですか**：疑問句句型
+- **どんな+名詞**：詢問事物的性質、特徵、種類
+- **にぎやかな町**：な形容詞修飾名詞時，使用「な」連接
+
+**💡 可以填入的疑問詞 (Answer):**
+- **どんな**（donna）- 什麼樣的
+  - **原因**：回答是「にぎやかな町」，描述城鎮的性質和特徵，使用「どんな+名詞」來詢問事物的種類或性質
 
 ---
 
@@ -85,11 +166,26 @@ It's a lively town.
 （がっこうは（　　）ですか。）
 Gakkou wa (　　) desu ka?
 How is school?
+學校怎麼樣？
 
 **B:** 楽しいです。
 （たのしいです。）
 Tanoshii desu.
 It's fun.
+很有趣。
+
+**📝 單字解說 (Vocabulary):**
+- **学校**（がっこう - gakkou）：學校
+- **楽しい**（たのしい - tanoshii）：有趣的、開心的（い形容詞）
+
+**📚 文法解說 (Grammar):**
+- **～は～ですか**：疑問句句型
+- **どう**：詢問狀態、情況、意見或感受
+- **楽しいです**：い形容詞的禮貌形，直接用「～です」結尾
+
+**💡 可以填入的疑問詞 (Answer):**
+- **どう**（dou）- 怎麼樣、如何
+  - **原因**：回答是「楽しいです」，描述對學校的感受和狀態，使用「どう」來詢問事物的狀態、情況或意見
 
 ---
 
@@ -99,11 +195,28 @@ It's fun.
 （（　　）とひるごはんをたべますか。）
 (　　) to hirugohan o tabemasu ka?
 With whom do you eat lunch?
+和誰一起吃午餐？
 
 **B:** 佐藤さんと食べます。
 （さとうさんとたべます。）
 Satou-san to tabemasu.
 I eat with Mr./Ms. Satou.
+和佐藤先生/小姐一起吃。
+
+**📝 單字解說 (Vocabulary):**
+- **と**（to）：和、與（助詞，表示共同行動的對象）
+- **昼ご飯**（ひるごはん - hirugohan）：午餐
+- **食べます**（たべます - tabemasu）：吃（動詞「食べる」的ます形）
+- **佐藤**（さとう - satou）：佐藤（日本姓氏）
+
+**📚 文法解說 (Grammar):**
+- **～と～ます**：表示和某人一起做某事，「と」表示共同行動的對象
+- **疑問詞+と**：詢問和誰一起做某事
+- **～を食べます**：「を」是賓語助詞，表示動作的對象
+
+**💡 可以填入的疑問詞 (Answer):**
+- **だれ**（dare）- 誰
+  - **原因**：回答是「佐藤さんと」，表示和某人一起，使用「だれ」來詢問人物。疑問詞在句首時，使用「だれ」
 
 ---
 
@@ -112,12 +225,29 @@ I eat with Mr./Ms. Satou.
 **A:** 日曜日、（　　）へ行きますか。
 （にちようび、（　　）へいきますか。）
 Nichiyoubi, (　　) e ikimasu ka?
-On Sunday, where do you go?
+Where do you go on Sunday?
+星期天去哪裡？
 
 **B:** 公園へ行きます。
 （こうえんへいきます。）
 Kouen e ikimasu.
 I go to the park.
+去公園。
+
+**📝 單字解說 (Vocabulary):**
+- **日曜日**（にちようび - nichiyoubi）：星期日
+- **へ**（e）：往、向（助詞，表示移動的方向，讀音為「え」）
+- **行きます**（いきます - ikimasu）：去（動詞「行く」的ます形）
+- **公園**（こうえん - kouen）：公園
+
+**📚 文法解說 (Grammar):**
+- **～へ行きます**：表示前往某地，「へ」表示移動的方向
+- **疑問詞+へ**：詢問去哪裡
+- **日曜日**：時間副詞，放在句首表示時間
+
+**💡 可以填入的疑問詞 (Answer):**
+- **どこ**（doko）- 哪裡
+  - **原因**：回答是「公園へ」，表示地點，使用「どこ」來詢問場所。疑問詞在句首時，使用「どこ」
 
 ---
 
@@ -125,66 +255,30 @@ I go to the park.
 
 **A:** これは（　　）ですか。
 Kore wa (　　) desu ka?
-What is this?
+How much is this? / What is this?
+這個多少錢？/ 這是什麼？
 
 **B:** 350円です。
 （さんびゃくごじゅうえんです。）
 Sanbyaku gojuu en desu.
 It's 350 yen.
+是350日元。
+
+**📝 單字解說 (Vocabulary):**
+- **これ**（kore）：這個（指示代詞）
+- **円**（えん - en）：日元（日本貨幣單位）
+- **350**（さんびゃくごじゅう - sanbyaku gojuu）：350
+
+**📚 文法解說 (Grammar):**
+- **～は～ですか**：疑問句句型
+- **いくら**：詢問價格、數量或程度
+- **數字+円**：表示金額的單位
+
+**💡 可以填入的疑問詞 (Answer):**
+- **いくら**（ikura）- 多少錢、多少
+  - **原因**：回答是「350円です」，表示價格，使用「いくら」來詢問價格、數量或程度
+- **何**（なん - nan）- 什麼（如果問「這是什麼」）
+  - **原因**：如果問題是詢問物品是什麼，可以使用「何」。但根據回答「350円」，此題應填入「いくら」
 
 ---
-
-## 例文 (Example Dialogues)
-
-### 例文 1
-
-**A:** それは何のざっしですか。
-（それはなにのざっしですか。）
-Sore wa nan no zasshi desu ka?
-What kind of magazine is that?
-
-**B:** 車のざっしです。
-（くるまのざっしです。）
-Kuruma no zasshi desu.
-It's a car magazine.
-
----
-
-### 例文 2
-
-**A:** テストはいつですか。
-Tesuto wa itsu desu ka?
-When is the test?
-
-**B:** 来週の木曜日です。
-（らいしゅうのもくようびです。）
-Raishuu no mokuyoubi desu.
-It's next Thursday.
-
----
-
-### 例文 3
-
-**A:** あの方はどなたですか。
-（あのかたはどなたですか。）
-Ano kata wa donata desu ka?
-Who is that person?
-
-**B:** 西川さんです。
-（にしかわさんです。）
-Nishikawa-san desu.
-It's Mr./Ms. Nishikawa.
-
----
-
-### 例文 4
-
-**A:** 日本のおかしはどうですか。
-（にほんのおかしはどうですか。）
-Nihon no okashi wa dou desu ka?
-How is Japanese confectionery?
-
-**B:** おいしいです。
-Oishii desu.
-It's delicious.
 
