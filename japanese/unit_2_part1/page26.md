@@ -56,7 +56,7 @@ Thank you. I'll have some.
 
 ---
 
-## 3. 「これ・それ・あれ」と「ここ・そこ・あそこ」 (This/That/Over there and Here/There/Over there)
+## 4. 「これ・それ・あれ」と「ここ・そこ・あそこ」 (This/That/Over there and Here/There/Over there)
 
 ### どう使う? (How to use?)
 
