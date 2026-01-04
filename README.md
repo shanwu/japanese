@@ -33,3 +33,6 @@ Lia, 詳細教我圖中的內容日文，包括列出相關的單字、句子，
 https://www.youtube.com/@deguchi
 
 https://www.youtube.com/watch?v=qz_DC_NEkvw&list=PL06W06QXW1WYPwYd5gBv1cRdSxoFYbFSN
+
+
+- [大洋先生課程資料](https://docs.google.com/document/d/1JzlFF_PugXsrgNag2raHValC8v_xt1xS5WTkoBk7GA8/edit?tab=t.mz34y87958ko)
