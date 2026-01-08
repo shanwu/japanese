@@ -154,3 +154,165 @@
   - Kochira wa Suzuki-san desu.  
   - 這位是鈴木先生/小姐。  
 
+---
+
+# 📚 JLPT N5 文法 Anki Cards（Unit3: page29–page35）
+
+> **說明**：以下卡片整理自 `unit3/page29.md`～`unit3/page35.md` 的重點文法（電器店購物、の 的省略、數字與助數詞）。每張卡片包含：文法重點、結構、羅馬拼音、例句（含羅馬拼音）。
+
+---
+
+## Card 9：「〜について」= 關於／有關
+
+**Front:**  
+名詞 + について（talk about a topic）
+
+**Back:**  
+- **意思**：關於～；就～（主題/範圍）  
+- **結構**：N + について + V / N + について + 話します  
+- **Romaji**：ni tsuite  
+- **例句**：  
+  - 商品について質問します。  
+  - Shōhin ni tsuite shitsumon shimasu.  
+  - 我詢問關於商品的事。  
+
+---
+
+## Card 10：「〜たり〜たりする」= 列舉動作（做…做…）
+
+**Front:**  
+V(た形) + り、V(た形) + り + します
+
+**Back:**  
+- **意思**：做～做～（列舉幾個代表性的動作）  
+- **結構**：V-ta + ri, V-ta + ri suru  
+- **Romaji**：~tari ~tari suru  
+- **例句**：  
+  - 週末は買い物したり、映画を見たりします。  
+  - Shūmatsu wa kaimono shitari, eiga o mitari shimasu.  
+  - 週末會去買東西、看電影等等。  
+
+---
+
+## Card 11：「〜てもらう」= 請別人幫忙（我受惠）
+
+**Front:**  
+V(て形) + もらいます
+
+**Back:**  
+- **意思**：請（別人）幫我做～／我得到對方幫忙做～（我受惠）  
+- **結構**：V-te + morau  
+- **Romaji**：~te morau  
+- **例句**：  
+  - 店員にほかの商品をさがしてもらいました。  
+  - Ten'in ni hoka no shōhin o sagashite moraimashita.  
+  - 我請店員幫我找其他商品。  
+
+---
+
+## Card 12：「〜ことができる」= 能夠做～
+
+**Front:**  
+V(辞書形) + ことができます
+
+**Back:**  
+- **意思**：能夠做～／可以做～  
+- **結構**：V-dict + koto ga dekiru  
+- **Romaji**：~koto ga dekiru  
+- **例句**：  
+  - 日本語を話すことができます。  
+  - Nihongo o hanasu koto ga dekimasu.  
+  - 我會說日文。  
+
+---
+
+## Card 13：「〜の」= 代替名詞（把名詞省略掉）
+
+**Front:**  
+N/いA/なA + の（名詞の代わり）
+
+**Back:**  
+- **意思**：用「の」代替前面提過的名詞，表示「…的（那個/東西）」  
+- **結構**：N + no / iA + no / naA + na + no  
+- **Romaji**：~no (as a noun)  
+- **例句**：  
+  - これは日本の車です。→ これは日本のです。  
+  - Kore wa Nihon no kuruma desu. → Kore wa Nihon no desu.  
+  - 這是日本的車。→ 這是日本的。  
+
+---
+
+## Card 14：形容詞 + の（「形容詞的那個」）
+
+**Front:**  
+い形容詞 + の（名詞化）／な形容詞 + な + の
+
+**Back:**  
+- **意思**：省略後面的名詞，說「形容詞的那個」  
+- **常見用途**：回答「どれ？」時，用顏色/大小等特徵回答  
+- **Romaji**：keiyōshi + no  
+- **例句**：  
+  - 黒いのです。  
+  - Kuroi no desu.  
+  - 是黑色的（那個）。  
+
+---
+
+## Card 15：「どれ」的問答：回答方式整理
+
+**Front:**  
+Nはどれですか（Which one?）
+
+**Back:**  
+- **意思**：在多個選項中問「哪一個」  
+- **結構**：N + wa + dore + desu ka  
+- **Romaji**：dore desu ka  
+- **常見回答**：  
+  - これ/それ/あれ です（kore/sore/are desu）  
+  - この/その/あの + N です（kono/sono/ano + N desu）  
+  - 形容詞 + の です（kuroi no desu）  
+- **例句**：  
+  - Bさんのかさはどれですか。  
+  - B-san no kasa wa dore desu ka.  
+  - B 的傘是哪一把？  
+
+---
+
+## Card 16：助数詞（數量詞）= 數字 + 助數詞
+
+**Front:**  
+数字 + 助数詞（ほん/まい/さつ/こ/にん…）
+
+**Back:**  
+- **意思**：日文數量必須搭配助數詞（依物品種類）  
+- **結構**：N + が/を + 数字 + 助数詞  
+- **Romaji**：sūji + josūshi  
+- **常見特殊讀法**：  
+  - 1人=ひとり (hitori), 2人=ふたり (futari)  
+  - 3本=さんぼん (sanbon), 1本=いっぽん (ippon)  
+  - 3杯=さんばい (sanbai), 1杯=いっぱい (ippai)  
+- **例句**：  
+  - 本を三冊買いました。  
+  - Hon o san-satsu kaimashita.  
+  - 買了三本書。  
+
+---
+
+## Card 17：百/千的音變（300/600/800、3000/8000）
+
+**Front:**  
+百(ひゃく)・千(せん)的特殊讀法
+
+**Back:**  
+- **意思**：某些數字在「ひゃく/せん」前會產生音變（發音要背）  
+- **Romaji**：hyaku/sen sound changes  
+- **常見重點**：  
+  - 300 = さんびゃく (sanbyaku)  
+  - 600 = ろっぴゃく (roppyaku)  
+  - 800 = はっぴゃく (happyaku)  
+  - 3000 = さんぜん (sanzen)  
+  - 8000 = はっせん (hassen)  
+- **例句**：  
+  - 3,800円です。  
+  - San-zen-happyaku-en desu.  
+  - 是 3,800 日元。  
