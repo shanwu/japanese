@@ -46,7 +46,7 @@ Sore sae kidzukenakatta n da
 Sonna shunkan wa nando attan darou
 
 結んだ糸は解いた
-Musunda ito wa hodaita
+Musunda ito wa hodoita
 
 世界はあの日のまま
 Sekai wa ano hi no mama
