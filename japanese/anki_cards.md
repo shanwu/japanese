@@ -498,7 +498,7 @@
 - **例句：** これはだれのかばんですか。Kore wa dare no kaban desu ka. 這是誰的包包？
 
 ---
-
+here
 ### Card 50：私の（watashi no）
 **Front:** 私の  
 **Back:**  
