@@ -498,7 +498,6 @@
 - **例句：** これはだれのかばんですか。Kore wa dare no kaban desu ka. 這是誰的包包？
 
 ---
-here
 ### Card 50：私の（watashi no）
 **Front:** 私の  
 **Back:**  
@@ -890,7 +889,7 @@ here
 **Back:** 意思：和某人一起吃，「と」表共同對象。結構：人＋と＋食べます。Romaji：~ to tabemasu。例句：佐藤さんと食べます。Satou-san to tabemasu. 和佐藤先生一起吃。
 
 ---
-
+here
 ### Card 94：數字＋円
 **Front:** 數字＋円  
 **Back:** 意思：表示金額「～日元」。結構：數字＋円（えん）。例句：350円です。Sanbyaku gojuu en desu. 是350日元。
