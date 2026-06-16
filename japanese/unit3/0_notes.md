@@ -245,3 +245,175 @@
 ### 四、 老師的學習建議
 *   **日本人其實是憑語感**：日本人在日常講話時，並不會刻意去想這是第幾類動詞或怎麼變化，而是自然而然地說出口。即使是日本的小孩在學習說話時，也會把「て形」講錯，但透過大量對話與練習就會自然記住。
 *   **給外國學習者的建議**：日文動詞有許多不規則與例外，一開始學習會覺得非常困難。建議**一步一步透過大量練習與開口說來自然記憶**，不要只死背規則。
+
+---
+
+### 五、 Anki 卡片 (Anki Flashcards)
+
+本章節提供兩種格式的 Anki 卡片：
+1. **互動折疊式卡片**：可以直接在支援 Markdown 的編輯器（如 Obsidian）中點擊展開進行自我測試。
+2. **匯入專用文字格式**：可複製下方代碼框內容，存成 `.txt` 檔後直接匯入 Anki 軟體中。
+
+---
+
+#### 1. 互動折疊式卡片 (Interactive Flashcards)
+
+<details>
+<summary><b>Q1: 日文動詞的三大分類及判斷規則是什麼？</b></summary>
+<blockquote>
+<b>A1:</b><br>
+1. <b>第一類動詞（う動詞 / U-verbs）</b>：
+   * 字尾為「る」以外的う段音（如：買う、書く、話す、遊ぶ、飲む）。
+   * 字尾是「る」，但前面母音為 [a]、[u]、[o]（如：座る、作る、乗る）。
+2. <b>第二類動詞（る動詞 / Ru-verbs）</b>：
+   * 字尾是「る」，且前面一個母音為 [i]（い段）或 [e]（え段）（如：見る、食べる、起きる）。
+3. <b>第三類動詞（不規則動詞）</b>：
+   * 主要只有 <code>する</code>（做）與 <code>来る（くる）</code>（來）兩個動詞。
+</blockquote>
+</details>
+
+<details>
+<summary><b>Q2: 請列出看似第二類動詞、實為第一類動詞的常見「重要例外」及其意義。</b></summary>
+<blockquote>
+<b>A2:</b><br>
+外表符合「る前為 [i] 或 [e] 段音」但屬於第一類動詞的常見例外：
+* <b>帰る（かえる / kaeru）</b>：回家
+* <b>入る（はいる / hairu）</b>：進入
+* <b>切る（きる / kiru）</b>：切
+* <b>いる（iru）</b>：需要
+* <b>知る（しる / shiru）</b>：知道
+* <b>走る（はしる / hashiru）</b>：跑
+</blockquote>
+</details>
+
+<details>
+<summary><b>Q3: 第一類動詞（う動詞）的「ます形」變化規則是什麼？請舉例。</b></summary>
+<blockquote>
+<b>A3:</b><br>
+* <b>規則</b>：將動詞字尾的 [u] 母音改為 [i] 母音，再加上「ます」。
+* <b>例子</b>：
+  * <code>書く (kaku)</code> 👉 <code>書きます (kakimasu)</code> (寫)
+  * <code>行く (iku)</code> 👉 <code>行きます (ikimasu)</code> (去)
+  * <code>飲む (nomu)</code> 👉 <code>飲みます (nomimasu)</code> (喝)
+</blockquote>
+</details>
+
+<details>
+<summary><b>Q4: 第二類動詞（る動詞）的「ます形」變化規則是什麼？請舉例。</b></summary>
+<blockquote>
+<b>A4:</b><br>
+* <b>規則</b>：直接去掉字尾的「る」，加上「ます」。
+* <b>例子</b>：
+  * <code>食べる (taberu)</code> 👉 <code>食べます (tabemasu)</code> (吃)
+  * <code>起きる (okiru)</code> 👉 <code>起きます (okimasu)</code> (起床)
+</blockquote>
+</details>
+
+<details>
+<summary><b>Q5: 第三類動詞（不規則動詞）的「ます形」變化形式為何？</b></summary>
+<blockquote>
+<b>A5:</b><br>
+* <code>する (suru)</code> 👉 <code>します (shimasu)</code> (做)
+* <code>来る (kuru)</code> 👉 <code>来ます (kimasu)</code> (來，讀音從 kuru 變成 kimasu)
+</blockquote>
+</details>
+
+<details>
+<summary><b>Q6: 「て形」在日文中的主要功能是什麼？請舉句型說明。</b></summary>
+<blockquote>
+<b>A6:</b><br>
+* <b>主要功能</b>：用於「連接」多個動作，或依照時間順序敘述事情。
+* <b>句型範例</b>：
+  * 「朝起きて、顔を洗って、新聞を読む。」<br><i>Asa okite, kao o awatte, shinbun o yomu.</i><br>(每天早上起床、洗臉、讀報紙。)
+</blockquote>
+</details>
+
+<details>
+<summary><b>Q7: 第二類動詞和第三類動詞的「て形」變化規則是什麼？請舉例。</b></summary>
+<blockquote>
+<b>A7:</b><br>
+* <b>規則</b>：去掉「ます」或「る」，直接加上「て」。
+* <b>例子</b>：
+  * <code>食べる (taberu)</code> 👉 <code>食べて (tabete)</code>
+  * <code>見る (miru)</code> 👉 <code>見て (mite)</code>
+  * <code>する (suru)</code> 👉 <code>して (shite)</code>
+  * <code>来る (kuru)</code> 👉 <code>来て (kite)</code>
+</blockquote>
+</details>
+
+<details>
+<summary><b>Q8: 第一類動詞中，字尾為「い、ち、り」的「て形」如何變化？請舉例。</b></summary>
+<blockquote>
+<b>A8:</b><br>
+* <b>規則</b>：字尾改為促音 <b>「って」</b>（い段音便 / 促音便）。
+* <b>例子</b>：
+  * <code>買う (kau)</code> 👉 <code>買って (katte)</code> (買)
+  * <code>待つ (matsu)</code> 👉 <code>待って (matte)</code> (等)
+  * <code>帰る (kaeru)</code> 👉 <code>帰って (kaette)</code> (回，例外第一類動詞)
+</blockquote>
+</details>
+
+<details>
+<summary><b>Q9: 第一類動詞中，字尾為「み、び、に」的「て形」如何變化？請舉例。</b></summary>
+<blockquote>
+<b>A9:</b><br>
+* <b>規則</b>：字尾改為撥音加濁音 <b>「んで」</b>（撥音便）。
+* <b>例子</b>：
+  * <code>読む (yomu)</code> 👉 <code>読んで (yonde)</code> (讀)
+  * <code>遊ぶ (asobu)</code> 👉 <code>遊んで (asonde)</code> (玩)
+  * <code>死ぬ (shinu)</code> 👉 <code>死んで (shinde)</code> (死)
+</blockquote>
+</details>
+
+<details>
+<summary><b>Q10: 第一類動詞中，字尾為「き」和「ぎ」的「て形」如何變化？請舉例。</b></summary>
+<blockquote>
+<b>A10:</b><br>
+* <b>規則</b>：
+  * 字尾為「き」改為 <b>「いて」</b>。
+  * 字尾為「ぎ」改為 <b>「いで」</b>。
+* <b>例子</b>：
+  * <code>書く (kaku)</code> 👉 <code>書いて (kaite)</code> (寫)
+  * <code>急ぐ (isogu)</code> 👉 <code>急いで (isoide)</code> (急/趕快)
+</blockquote>
+</details>
+
+<details>
+<summary><b>Q11: 第一類動詞中，字尾為「し」的「て形」如何變化？請舉例。</b></summary>
+<blockquote>
+<b>A11:</b><br>
+* <b>規則</b>：字尾改為 <b>「して」</b>。
+* <b>例子</b>：
+  * <code>話す (hanasu)</code> 👉 <code>話して (hanashite)</code> (說)
+</blockquote>
+</details>
+
+<details>
+<summary><b>Q12: 第一類動詞中，哪一個動詞的「て形」變化是「唯一的特殊例外」？</b></summary>
+<blockquote>
+<b>A12:</b><br>
+* <b>例外動詞</b>：<code>行く（いく / iku）</code> (去)
+* <b>變化形式</b>：雖然字尾是「く」，但不遵循「いて」規則，而是變成 <b>「行って（itte）」</b>。
+</blockquote>
+</details>
+
+---
+
+#### 2. Anki 匯入用格式 (TSV)
+
+請複製以下區塊內容，儲存為 utf-8 編碼的 `.txt` 檔案，即可在 Anki 中選擇「匯入檔」功能直接匯入卡片（欄位分隔符號請選擇「Tab 分隔」）。
+
+```tsv
+日文動詞的三大分類及判斷規則是什麼？	1. **第一類動詞（う動詞 / U-verbs）**：字尾是「る」以外的う段音，或字尾是「る」但前面的母音是 [a], [u], [o] (如座る、作る)。<br>2. **第二類動詞（る動詞 / Ru-verbs）**：字尾是「る」且前面的母音是 [i] 或 [e] (如見る、食べる)。<br>3. **第三類動詞（不規則動詞）**：`する` 和 `くる`。
+請列出看似第二類動詞、實為第一類動詞的常見「重要例外」及其意義。	外表符合「る前為 [i] 或 [e] 段音」但屬於第一類動詞的常見例外：<br>- **帰る（かえる / kaeru）**：回家 (ます形：帰ります / て形：帰って)<br>- **入る（はいる / hairu）**：進入 (ます形：入ります / て形：入って)<br>- **走る（はしる / hashiru）**：跑 (ます形：走ります / て形：走って)<br>- **切る（きる / kiru）**：切 (ます形：切ります / て形：切って)<br>- **知る（しる / shiru）**：知道 (ます形：知ります / て形：知って)
+第一類動詞（う動詞）的「ます形」變化規則是什麼？請舉例。	**規則**：將動詞字尾的 [u] 母音改為 [i] 母音，再加上「ます」。<br>**例子**：<br>- `書く (kaku)` 👉 `書きます (kakimasu)` (寫)<br>- `行く (iku)` 👉 `行きます (ikimasu)` (去)<br>- `飲む (nomu)` 👉 `飲みます (nomimasu)` (喝)
+第二類動詞（る動詞）的「ます形」變化規則是什麼？請舉例。	**規則**：直接去掉字尾的「る」，加上「ます」。<br>**例子**：<br>- `食べる (taberu)` 👉 `食べます (tabemasu)` (吃)<br>- `起きる (okiru)` 👉 `起きます (okimasu)` (起床)
+第三類動詞（不規則動詞）的「ます形」變化形式為何？	- `する (suru)` 👉 `します (shimasu)` (做)<br>- `来る (kuru)` 👉 `来ます (kimasu)` (來，讀音從 kuru 變成 kimasu)
+「て形」在日文中的主要功能是什麼？請舉句型說明。	**主要功能**：用於「連接」多個動作，或依照時間順序敘述事情。<br>**句型範例**：「朝起きて、顔を洗って、新聞を読む。」<br>_Asa okite, kao o awatte, shinbun o yomu._<br>(每天早上起床、洗臉、讀報紙。)
+第二類動詞和第三類動詞的「て形」變化規則是什麼？請舉例。	**規則**：去掉「ます」或「る」，直接加上「て」。<br>**例子**：<br>- `食べる (taberu)` 👉 `食べて (tabete)` (吃)<br>- `見る (miru)` 👉 `見て (mite)` (看)<br>- `する (suru)` 👉 `して (shite)` (做)<br>- `来る (kuru)` 👉 `来て (kite)` (來)
+第一類動詞中，字尾為「い、ち、り」的「て形」如何變化？請舉例。	**規則**：字尾改為促音 **「って」**（い段音便 / 促音便）。<br>**例子**：<br>- `買う (kau)` 👉 `買って (katte)` (買)<br>- `待つ (matsu)` 👉 `待って (matte)` (等)<br>- `帰る (kaeru)` 👉 `帰って (kaette)` (回，例外第一類動詞)
+第一類動詞中，字尾為「み、び、に」的「て形」如何變化？請舉例。	**規則**：字尾改為撥音加濁音 **「んで」**（撥音便）。<br>**例子**：<br>- `読む (yomu)` 👉 `読んで (yonde)` (讀)<br>- `遊ぶ (asobu)` 👉 `遊んで (asonde)` (玩)<br>- `死ぬ (shinu)` 👉 `死んで (shinde)` (死)
+第一類動詞中，字尾為「き」和「ぎ」的「て形」如何變化？請舉例。	**規則與例子**：<br>- 字尾為「き」改為 **「いて」**：`書く (kaku)` 👉 `書いて (kaite)` (寫)<br>- 字尾為「ぎ」改為 **「いで」**：`急ぐ (isogu)` 👉 `急いで (isoide)` (急/趕快)
+第一類動詞中，字尾為「し」的「て形」如何變化？請舉例。	**規則**：字尾改為 **「して」**。<br>**例子**：`話す (hanasu)` 👉 `話して (hanashite)` (說)
+第一類動詞中，哪一個動詞的「て形」變化是「唯一的特殊例外」？	**例外動詞**：`行く（いく / iku）` (去)<br>**變化形式**：雖然字尾是「く」，但不遵循「いて」規則，而是變成 **「行って（itte）」**。
+```
