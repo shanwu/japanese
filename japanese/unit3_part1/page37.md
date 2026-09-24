@@ -70,6 +70,18 @@
 
 ### 完整對話 (Complete Dialogue)
 
+```text
+CD Track 30
+```
+
+<audio controls preload="auto" style="width: 100%; max-width: 520px; margin: 10px 0;">
+  <source src="../audio/try_n5/30.mp3" type="audio/mpeg">
+  您的播放環境不支援 audio 標籤，請點擊下方播放按鈕。
+</audio>
+
+> 🎧 **課文錄音檔播放**：[▶️ 點擊在系統播放器中聆聽 (CD 30 · 30.mp3)](file:///Users/shanwu/life_path/japanese/japanese/audio/try_n5/30.mp3)  
+> 💡 *學習提示：在 Markdown Preview 預覽模式下可直接點擊上方播放器播放/暫停/跳轉；在原始碼編輯模式下，可直接點擊（或 Cmd+點擊）上方連結開啟播放。*
+
 **スミス (Smith):**
 おはようございます。
 Ohayō gozaimasu.
