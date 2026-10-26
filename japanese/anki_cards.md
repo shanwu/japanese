@@ -2982,7 +2982,7 @@ here
 
 # 📚 Unit4 最重要 200 張 Anki 卡（單字＋文法）
 
-> **來源**：`japanese/unit4`（page51.md～page59.md）  
+> **來源**：`japanese/unit4_part1`（page51.md～page59.md）  
 > **說明**：與既有 Card 1–600 不重複。主題：邀請（～ませんか/～ましょう）、存在（あります/います）、場所詞、ね/よ進階。
 
 ---
